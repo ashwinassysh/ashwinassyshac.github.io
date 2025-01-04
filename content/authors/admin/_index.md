@@ -234,7 +234,11 @@ awards:
 ## About Me
 
 So, you're after a data whisperer who speaks fluent AI, ML? Well, look no further! I'm a Principal Data Analyst at Capital One, where I wrangle algorithms and coax insights from mountains of data – think of me as a digital Indiana Jones, but with more Python and less snakes. I'm not just crunching numbers; I'm on a quest to make the complex beautifully simple, or at least understandable.
+
 My superpower? Turning raw data into actionable strategies. At Capital One, I’ve been busy leading Gen AI projects using brainy models like Meta's Llama and Mixtral. I've also built data pipelines that move faster than a caffeinated cheetah, all to fuel the hungry machine learning beast. Oh, and I'm the mastermind behind a cool tool called the Segmentation Tree (yeah, I know, sounds like something out of a sci-fi film, but it’s data explainability magic).
+
 Before I became a data sorcerer, I dabbled in consulting at the Carlson Analytics Lab. I got to play with predictive models and causal inference analysis, while helping businesses make smarter moves. And back in the day at Accenture, I was helping fortune 100 clients with optimizing their business processes with use of SAP and Robotic Process Automation (RPA) – turning tedious tasks into digital dances.
+
 I’ve got a Master's in Business Analytics from the University of Minnesota (Carlson School of Management) and a Bachelor's in Mechanical Engineering. Oh, and a few patents and publications floating around, which is probably what happens when you spend too much time thinking about data.
+
 I’m always eager to connect with fellow data enthusiasts and those who are not afraid to get their hands dirty with data. Let’s build something extraordinary, one insight at a time!
