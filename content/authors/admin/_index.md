@@ -54,7 +54,7 @@ interests:
 education:
   - area: Master of Science in Business Analytics
     institution: University of Minnesota, Twin Cities
-    date_start: 22019-05-28
+    date_start: 2019-05-28
     date_end: 2020-05-31
     summary: |
       
