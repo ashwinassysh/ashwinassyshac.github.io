@@ -66,17 +66,12 @@ education:
     date_start: 2010-08-01
     date_end: 2014-08-15
     summary: |
-     
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 work:
   - position: Principal Data Analyst
     company_name: Capital One
     company_url: 'https://www.capitalone.com'
-    company_logo: 'CapitalOne'
+    company_logo: 'custom/CapitalOne'
     date_start: 2020-07-06
     date_end: ''
     summary: |2-
@@ -90,7 +85,7 @@ work:
   - position: Senior Data Analyst
     company_name: Capital One
     company_url: 'https://www.capitalone.com'
-    company_logo: 'CapitalOne'
+    company_logo: 'custom/CapitalOne'
     date_start: 2014-07-27
     date_end: 2019-05-15
     summary: |
@@ -99,7 +94,7 @@ work:
   - position: Analytics Student Consultant
     company_name: Carlson Analytics Lab
     company_url: 'https://carlsonschool.umn.edu/analytics-lab'
-    company_logo: ''
+    company_logo: 'custom/CapitalOne'
     date_start: 2019-07-01
     date_end: 2020-05-31
     summary: |
@@ -121,7 +116,7 @@ work:
   - position: Application Development Senior Analyst
     company_name: Accenture
     company_url: 'https://www.accenture.com/in-en'
-    company_logo: ''
+    company_logo: 'custom/Accenture'
     date_start: 2018-11-11
     date_end: 2019-05-15
     summary: |
@@ -134,7 +129,7 @@ work:
   - position: Application Development Analyst
     company_name: Accenture
     company_url: 'https://www.accenture.com/in-en'
-    company_logo: ''
+    company_logo: 'custom/Accenture'
     date_start: 2015-12-01
     date_end: 2018-11-10
     summary: |
@@ -146,7 +141,7 @@ work:
   - position: Associate Software Engineer
     company_name: Accenture
     company_url: 'https://www.accenture.com/in-en'
-    company_logo: ''
+    company_logo: 'custom/Accenture'
     date_start: 2015-12-01
     date_end: 2018-11-10
     summary: |
@@ -208,14 +203,14 @@ awards:
     url: https://www.capitalonecareers.com/innovation
     date: '2024-06-14'
     awarder: Capital One
-    icon: 'CapitalOne'
+    icon: 'custom/CapitalOne'
     summary: |
       Received Capital One's highest internal honor for leading the data pipeline work for MBS model. As Capital One’s first high-risk rating deep-learning model, it brings significant new capabilities to how we manage risk in our portfolio.
   - title: Accenture Celebrates Excellence
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2015-10-01'
     awarder: Accenture
-    icon: 'Accenture'
+    icon: 'custom/Accenture'
     summary: |
       Received the award for a successful go live of a $5M Greenfield transformation project comprising a team of 40 consultants from 4 countries. Partnered with the client in migrating it's IT infrastructure from Oracle to SAP in 10 months.
 ---

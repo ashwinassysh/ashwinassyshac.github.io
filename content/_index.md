@@ -39,24 +39,26 @@ sections:
       date_format: 'January 2006'
       # Education or Experience section first?
       is_education_first: false
-  - block: resume-skills
-    content:
-      title: Skills & Hobbies
-      username: admin
-    design:
-      show_skill_percentage: false
   - block: resume-awards
+    id: awards
     content:
       title: Awards
       username: admin
-  - block: resume-languages
+  - block: collection
+    id: patents
     content:
-      title: Languages
-      username: admin
+      title: Patents
+      text: ""
+      filters:
+        folders:
+          - patent
+        exclude_featured: false
+    design:
+      view: citation
   - block: collection
     id: papers
     content:
-      title: Patents and Publications
+      title: Publications
       text: ""
       filters:
         folders:
@@ -64,6 +66,13 @@ sections:
         exclude_featured: false
     design:
       view: citation
+  - block: resume-skills
+    id: skills
+    content:
+      title: Skills & Hobbies
+      username: admin
+    design:
+      show_skill_percentage: false
   - block: collection
     id: news
     content:
