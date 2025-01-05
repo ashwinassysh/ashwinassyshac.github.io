@@ -14,8 +14,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
-    twitter: 'GetResearchDev'
+    description: 'Ashwin Assysh Sharma is an accomplished data analytics and engineering expert, researcher, and award-winning innovator. Based in Fairfax County, Virginia, Ashwin has led pioneering work in MBS risk modeling and data pipeline development, building an end-to-end pipeline for an MBS deep learning model using PySpark, Python, and Polars. He holds one granted patent, with three others in published status.'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
