@@ -76,21 +76,21 @@ work:
   - position: Principal Data Analyst
     company_name: Capital One
     company_url: 'https://www.capitalone.com'
-    company_logo: ''
+    company_logo: 'CapitalOne'
     date_start: 2020-07-06
     date_end: ''
     summary: |2-
-      - Designed and led the Gen AI projects within Capital One. Used Meta'sLlama and Mixtral model to enhance the operational efficiency of internalprocesses.
-      - Worked on Prompt Engineering (Few shot, Chain of Thought, etc), Agenticworkflows for Meta's Llama and Mixtral model.
-      - Spearheaded the development of a comprehensive data pipelinefor an MBS deep learning model using PySpark, Python, and Polars.Successfully extracted and processed terabytes of data from external vendors,implementing intricate business logic to support model training, scoring, andongoing monitoring.
-      - Created a novel Segmentation Tree, a data explainability tool. Presentedthe tool at Capital One's Modeling and Analytics Conference (MAC) andDataWeek, being among the 20% accepted from 500+ submissions company-wide.
+      - Designed and led the Gen AI projects within Capital One. Used Meta'sLlama and Mixtral model to enhance the operational efficiency of internal processes.
+      - Worked on Prompt Engineering (Few shot, Chain of Thought, etc), Agentic workflows for Meta's Llama and Mixtral model.
+      - Spearheaded the development of a comprehensive data pipeline for an MBS deep learning model using PySpark, Python, and Polars. Successfully extracted and processed terabytes of data from external vendors,implementing intricate business logic to support model training, scoring, and ongoing monitoring.
+      - Created a novel Segmentation Tree, a data explainability tool. Presented the tool at Capital One's Modeling and Analytics Conference (MAC) and DataWeek, being among the 20% accepted from 500+ submissions company-wide.
       - Reduced the MBS model's data pipeline runtime by 96%. This was achieved by code and process optimization.
-      - Implemented data validation pipelines using data profiler to increaseconsumer confidence for the data.
+      - Implemented data validation pipelines using data profiler to increase consumer confidence for the data.
       - Implemented model monitoring controls to make sure model inputs and outputs meet all the audit and compliance requirements.
   - position: Senior Data Analyst
     company_name: Capital One
     company_url: 'https://www.capitalone.com'
-    company_logo: ''
+    company_logo: 'CapitalOne'
     date_start: 2014-07-27
     date_end: 2019-05-15
     summary: |
@@ -105,19 +105,19 @@ work:
     summary: |
       Client: Global Leader in Water, Hygiene, and Energy Technologies & Services(Pest activity risk score prediction)
       Tools: Python, PowerBI
-      - Conducted exploratory data analytics to identify patterns of pest activityobserved during service visits across locations.
-      - Designed and predicted custom prevention score by applying LightGBMpredictive model to identify key changes to be made at a facility by thecustomer, leading to higher customer retention.
+      - Conducted exploratory data analytics to identify patterns of pest activity observed during service visits across locations.
+      - Designed and predicted custom prevention score by applying LightGBM predictive model to identify key changes to be made at a facility by thecustomer, leading to higher customer retention.
 
-      Client: Leading hospitality and entertainment business in the Midwest (Cohortclassification and causal inference analysis)
+      Client: Leading hospitality and entertainment business in the Midwest (Cohort classification and causal inference analysis)
       Tools: Python, R, and Tableau
-      - Classified top revenue-generating customer categories and promotions todrive trip decisions by leveraging techniques such asregression discontinuity and propensity score matching.
-      - Performed exploratory data analysis using Python and Tableau on 3 yearsof promotional data.
+      - Classified top revenue-generating customer categories and promotions to drive trip decisions by leveraging techniques such as regression discontinuity and propensity score matching.
+      - Performed exploratory data analysis using Python and Tableau on 3 years of promotional data.
 
       Client: Mall of America (Exploratory Analytics)
       Tools: Python, R, and Tableau
       - Formulated 4 actionable recommendations by inspecting call data tooptimize its workforce allocation.
-      - Evaluated relationship between different categories of shops and the calltypes and identified 3+ recommendations.
-      - Visualized call data using Tableau to identify trends and identified 10+insights.
+      - Evaluated relationship between different categories of shops and the call types and identified 3+ recommendations.
+      - Visualized call data using Tableau to identify trends and identified 10+ insights.
   - position: Application Development Senior Analyst
     company_name: Accenture
     company_url: 'https://www.accenture.com/in-en'
@@ -126,10 +126,10 @@ work:
     date_end: 2019-05-15
     summary: |
       Client: America Based Chemical Company – Offshore
-      Project: A $540M project comprising 500 consultants across 4 continents.Assisted client in transforming their IT landscape, after a $130B merger, forspin-off into three companies.
-      - Led a team of 3 SRM consultants to deliver critical SAP objects andconfigurations; acting as an intermediary between client’s business team andinternal development teams.
-      - Reduced process time by 240 hours per quarter through automationof processes involved in importing vendor catalogues into MDM throughAccenture proprietary RPA (Robotic Process Automation) tool.
-      - Saved 300 hours and maintained compliance by analyzing 22K contractsusing python and advanced excel.
+      Project: A $540M project comprising 500 consultants across 4 continents. Assisted client in transforming their IT landscape, after a $130B merger, for spin-off into three companies.
+      - Led a team of 3 SRM consultants to deliver critical SAP objects and configurations; acting as an intermediary between client’s business team and internal development teams.
+      - Reduced process time by 240 hours per quarter through automation of processes involved in importing vendor catalogues into MDM through Accenture proprietary RPA (Robotic Process Automation) tool.
+      - Saved 300 hours and maintained compliance by analyzing 22K contracts using python and advanced excel.
       - Initiated and implemented strategy for client’s MDM system, contributing tothe client achieving savings target during the Spin-Off.
   - position: Application Development Analyst
     company_name: Accenture
@@ -139,7 +139,7 @@ work:
     date_end: 2018-11-10
     summary: |
       Client: America Based Chemical Company – Offshore
-      Project: Process improvement project in production support for SAP modulesby analyzing the incidents that were converted into change requests. ‘Followthe sun’ delivery model was adopted by 80 consultants.
+      Project: Process improvement project in production support for SAP modulesby analyzing the incidents that were converted into change requests. ‘Follow the sun’ delivery model was adopted by 80 consultants.
       - Reduced audit cost by 100$K per quarter by developing a product pricechange tracker to help client sourcing team and auditors.
       - Presented Development Life Cycle to Client’s CIO and IT Head, which wasappreciated by Project Manager.
       - Defined, recorded and presented metrics to senior leadership for optimizingmonthly project plan focused on team productivity.
@@ -151,7 +151,7 @@ work:
     date_end: 2018-11-10
     summary: |
       Client: QATAR Based Oil and Gas Company – Offshore
-      Project: $5M Greenfield transformation project comprising a team of 40consultants from 4 countries. Partnered with the client in migrating its ITinfrastructure from Oracle to SAP in 10 months.
+      Project: $5M Greenfield transformation project comprising a team of 40consultants from 4 countries. Partnered with the client in migrating it's IT infrastructure from Oracle to SAP in 10 months.
       - Transitioned SRM and SLC module through end-user training sessions,resulting in milestone sign-off to go-live in production.
       - Identified as a key resource in succession planning.
       - Developed test environment and documentation using user case stories andrequirements.
@@ -204,31 +204,20 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: Circle of Excellence
+    url: https://www.capitalonecareers.com/innovation
+    date: '2024-06-14'
+    awarder: Capital One
+    icon: 'CapitalOne'
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
+      Received Capital One's highest internal honor for leading the data pipeline work for MBS model. As Capital One’s first high-risk rating deep-learning model, it brings significant new capabilities to how we manage risk in our portfolio.
+  - title: Accenture Celebrates Excellence
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+    date: '2015-10-01'
+    awarder: Accenture
+    icon: 'Accenture'
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      Received the award for a successful go live of a $5M Greenfield transformation project comprising a team of 40 consultants from 4 countries. Partnered with the client in migrating it's IT infrastructure from Oracle to SAP in 10 months.
 ---
 
 ## About Me
