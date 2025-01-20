@@ -4,7 +4,7 @@ authors:
 - Ashwin Assysh Sharma
 - Gunther Havel
 links:
-- name: Custom Link
+- name: Patent Link
   url: https://patents.google.com/patent/US20240303537A1/
 url_pdf: https://patentimages.storage.googleapis.com/1f/b7/3f/ee49fd566a9c36/US20240303537A1.pdf
 date: '2024-09-01'

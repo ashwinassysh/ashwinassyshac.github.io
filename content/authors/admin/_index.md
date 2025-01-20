@@ -33,8 +33,8 @@ profiles:
   - icon: at-symbol
     url: 'mailto:ashwinassysh@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+  # - icon: brands/x
+  #   url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
     url: https://www.instagram.com/ashwinassysh
   - icon: brands/github
@@ -58,9 +58,9 @@ education:
     date_end: 2020-05-31
     summary: |
       
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+    # button:
+    #   text: 'Read Thesis'
+    #   url: 'https://example.com'
   - area: Bachelor's of Technology in Mechanical Engineering 
     institution: NMIMS University
     date_start: 2010-08-01

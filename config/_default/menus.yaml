@@ -20,12 +20,12 @@ main:
     url: /#papers
     weight: 14
   - name: Skills
-    url: /#papers
+    url: /#skills
     weight: 15
-  - name: News
-    url: /#news
-    weight: 16
+  # - name: News
+  #   url: /#news
+  #   weight: 16
   - name: Projects
     url: projects/
-    weight: 20
+    weight: 16
 
