@@ -14,7 +14,7 @@ main:
     url: /#awards
     weight: 12
   - name: Patents
-    url: /#patent
+    url: /#patents
     weight: 13
   - name: Publications
     url: /#papers

@@ -177,9 +177,9 @@ skills:
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Pottery
         description: ''
-        percent: 100
+        percent: 40
         icon: cat
       - name: Photography
         description: ''
