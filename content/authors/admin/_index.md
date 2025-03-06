@@ -153,7 +153,7 @@ work:
     company_url: 'https://www.accenture.com/in-en'
     company_logo: 'custom/Accenture'
     date_start: 2014-07-27
-    date_end: 2015-11-31
+    date_end: 2015-11-30
     summary: |
       Client: QATAR Based Oil and Gas Company – Offshore
       Project: $5M Greenfield transformation project comprising a team of 40consultants from 4 countries. Partnered with the client in migrating it's IT infrastructure from Oracle to SAP in 10 months.
