@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Principal Data Analyst
+role: Data Analysis Manager
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -68,12 +68,21 @@ education:
     summary: |
 
 work:
+  - position: Data Analysis Manager
+    company_name: Capital One
+    company_url: 'https://www.capitalone.com'
+    company_logo: 'custom/CapitalOne'
+    date_start: 2025-02-01
+    date_end: ''
+    summary: |2-
+      - Designed and led the Gen AI projects within Capital One. Used Meta'sLlama and Mixtral model for Earnings call classification and sensitive data tagging projects.
+      - Led the work for setting coding and testing standards across multiple teams within my Line of Business.
   - position: Principal Data Analyst
     company_name: Capital One
     company_url: 'https://www.capitalone.com'
     company_logo: 'custom/CapitalOne'
-    date_start: 2020-07-06
-    date_end: ''
+    date_start: 2023-02-01
+    date_end: 2025-01-31
     summary: |2-
       - Designed and led the Gen AI projects within Capital One. Used Meta'sLlama and Mixtral model to enhance the operational efficiency of internal processes.
       - Worked on Prompt Engineering (Few shot, Chain of Thought, etc), Agentic workflows for Meta's Llama and Mixtral model.
@@ -86,11 +95,12 @@ work:
     company_name: Capital One
     company_url: 'https://www.capitalone.com'
     company_logo: 'custom/CapitalOne'
-    date_start: 2014-07-27
-    date_end: 2019-05-15
+    date_start: 2020-07-06
+    date_end: 2023-01-31
     summary: |
       - Developed data quality checks for LCR usecase to ensure accuracy and consistency of data using SQL and Python.
       - Designing a machine learning framework to predict data quality issues for High priority usecases.
+      - Created a Data Quality framework with anomaly detection and change point detection capabilities.
   - position: Analytics Student Consultant
     company_name: Carlson Analytics Lab
     company_url: 'https://carlsonschool.umn.edu/analytics-lab'
@@ -142,8 +152,8 @@ work:
     company_name: Accenture
     company_url: 'https://www.accenture.com/in-en'
     company_logo: 'custom/Accenture'
-    date_start: 2015-12-01
-    date_end: 2018-11-10
+    date_start: 2014-07-27
+    date_end: 2015-11-31
     summary: |
       Client: QATAR Based Oil and Gas Company – Offshore
       Project: $5M Greenfield transformation project comprising a team of 40consultants from 4 countries. Partnered with the client in migrating it's IT infrastructure from Oracle to SAP in 10 months.
