@@ -227,7 +227,7 @@ awards:
 
 ## About Me
 
-So, you're after a data whisperer who speaks fluent AI, ML? Well, look no further! I'm a Principal Data Analyst at Capital One, where I wrangle algorithms and coax insights from mountains of data – think of me as a digital Indiana Jones, but with more Python and less snakes. I'm not just crunching numbers; I'm on a quest to make the complex beautifully simple, or at least understandable.
+So, you're after a data whisperer who speaks fluent AI, ML? Well, look no further! I'm a Data Analysis Manager at Capital One, where I wrangle algorithms and coax insights from mountains of data – think of me as a digital Indiana Jones, but with more Python and less snakes. I'm not just crunching numbers; I'm on a quest to make the complex beautifully simple, or at least understandable.
 
 My superpower? Turning raw data into actionable strategies. At Capital One, I’ve been busy leading Gen AI projects using brainy models like Meta's Llama and Mixtral. I've also built data pipelines that move faster than a caffeinated cheetah, all to fuel the hungry machine learning beast. Oh, and I'm the mastermind behind a cool tool called the Segmentation Tree (yeah, I know, sounds like something out of a sci-fi film, but it’s data explainability magic).
 
